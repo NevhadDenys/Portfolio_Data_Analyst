@@ -1,0 +1,90 @@
+Sales_Order #;Date;Day;Month;Year;Customer_Age;Age_Group;Customer_Gender;Country;State;Product_Category;Sub_Category;Product_Description;Order_Quantity; Unit_Cost ; Unit_Price ; Profit ; Cost ;Revenue
+261695;01.12.2021;1;December;2021;39;Adults (35-64);F;United States;California;Bikes;Mountain Bikes;Mountain-200 Black, 46;4;1252;2295;4172;5008;9180
+261695;01.12.2021;1;December;2021;44;Adults (35-64);M;United Kingdom;England;Bikes;Mountain Bikes;Mountain-200 Silver, 42;1;1266;2320;1054;1266;2320
+261697;02.12.2021;2;December;2021;37;Adults (35-64);M; United States;California;Bikes;Mountain Bikes;Mountain-400-W Silver, 46;2;420;769;698;840;1538
+261698;02.12.2021;2;December;2021;31;Young Adults (25-34);F;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-400-W Silver, 42;1;420;769;349;420;769
+261699;03.12.2021;3;December;2021;37;Adults (35-64);F;United  States;California;Bikes;Mountain Bikes;Mountain-200 Black, 46;2;0;2295;2086;0;4590
+261700;03.12.2021;3;December;2021;24;Youth (<25);F;United Kingdom;England;Bikes;Mountain Bikes;Mountain-200 Black, 38;1;1252;2295;1043;1252;2295
+261701;03.12.2021;3;December;2021;37;Adults (35-64);M;United States ;Washington;Bikes;Mountain Bikes;Mountain-200 Black, 46;1;1252;2295;1043;1252;2295
+261701;03.12.2021;3;December;2021;37;Adults (35-64);M;United States;Washington;Bikes;Mountain Bikes;Mountain-200 Black, 46;1;1252;2295;1043;1252;2295
+261702;04.12.2021;4;December;2021;31;Young Adults (25-34);F;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-400-W Silver, 42;4;420;0;1396;1680;0
+261703;05.12.2021;5;December;2021;39;Adults (35-64);F;United States;California;Bikes;Mountain Bikes;Mountain-200 Black, 46;4;1252;2295;4172;5008;9180
+261704;05.12.2021;5;December;2021;42;Adults (35-64);M;Germany;Nordrhein-Westfalen;Bikes;Mountain Bikes;Mountain-200 Black, 38;4;1252;2295;4172;5008;9180
+261705;05.12.2021;5;December;2021;35;Adults (35-64);F;Australia;Queensland;Bikes;Mountain Bikes;Mountain-200 Silver, 38;1;1266;2320;1054;1266;2320
+261706;05.12.2021;5;December;2021;37;Adults (35-64);F;United States;California;Bikes;Mountain Bikes;Mountain-200 Black, 46;1;1252;2295;1043;1252;2295
+261707;06.12.2021;6;December;2021;23;Youth (<25);M;United Kingdom;England;Bikes;Mountain Bikes;Mountain-400-W Silver, 46;3;420;769;1047;1260;2307
+261708;06.12.2021;6;December;2021;27;Young Adults (25-34);M;Canada;British Columbia;Bikes;Mountain Bikes;Mountain-200 Black, 46;1;1252;2295;1043;1252;2295
+261709;06.12.2021;6;December;2021;36;;M;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-200 Black, 42;1;1252;2295;1043;1252;2295
+261710;06.12.2021;6;December;2021;47;Adults (35-64);M;United Kingdom;England;Bikes;Mountain Bikes;Mountain-200 Silver, 38;1;1266;2320;1054;1266;2320
+261711;07.12.2021;7;Decmber;2021;30;Young Adults (25-34);M;United States;California;Bikes;Mountain Bikes;Mountain-400-W Silver, 38;4;420;769;1396;1680;3076
+261712;07.12.2021;7;December;2021;38;Adults (35-64);M;United States;California;Bikes;Mountain Bikes;Mountain-200 Silver, 42;2;1266;2320;2108;2532;4640
+261713;08.12.2021;8;December;2021;19;Youth (<25);F;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-500 Silver, 42;4;308;565;1028;1232;2260
+261714;08.12.2021;8;December;2021;30;Young Adults (25-34);F;Canada;British Columbia;Bikes;Mountain Bikes;Mountain-200 Silver, 38;4;1266;2320;4216;5064;9280
+261715;08.12.2021;8;December;2021;39;Adults (35-64);F;United States;Oregon;Bikes;Mountain Bikes;;2;1252;2295;2086;2504;4590
+261716;08.12.2021;8;December;2021;35;Adults (35-64);F;United States;California;Bikes;Mountain Bikes;Mountain-500 Black, 42;;295;540;245;0;0
+261717;09.12.2021;9;December;2021;33;Young Adults (25-34);F;Australia;Victoria;Bikes;Mountain Bikes;Mountain-100 Black, 38;2;1898;3375;2954;3796;6750
+261718;09.12.2021;9;December;2021;41;Adults (35-64);F;Germany;Hamburg;Bikes;Mountain Bikes;Mountain-200 Silver, 42;1;1266;2320;1054;1266;2320
+261719;10.12.2021;10;December;2021;34;Young Adults (25-34);F;United States;California;Bikes;Mountain Bikes;Mountain-200 Black, 42;2;1252;2295;2086;2504;4590
+261720;10.12.2021;10;December;2021;40;Adults (35-64);M;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-200 Black, 42;2;1252;2295;2086;2504;4590
+261721;10.12.2021;10;December;2021;26;Young Adults (25-34);M;United Kingdom;England;Bikes;Mountain Bikes;Mountain-200 Black, 38;1;1252;2295;1043;1252;2295
+261722;10.12.2021;10;December;2021;34;Young Adults (25-34);M;United States;California;Bikes;Mountain Bikes;Mountain-500 Black, 40;1;295;540;245;295;540
+261723;10.12.2021;10;December;2021;34;Young Adults (25-34);F;United States;Washington;Bikes;Mountain Bikes;Mountain-100 Silver, 44;1;1912;3400;1488;1912;3400
+261724;10.12.2021;10;December;2021;38;Adults (35-64);M;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-200 Black, 38;1;1252;2295;1043;1252;2295
+261725;11.12.2021;11;December;2021;24;Youth (<25);F;France;Seine (Paris);Bikes;Mountain Bikes;Mountain-200 Black, 38;3;1252;2295;3129;3756;6885
+261726;11.12.2021;11;December;2021;41;Adults (35-64);F;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-400-W Silver, 38;2;420;769;698;840;1538
+261727;11.12.2021;11;December;2021;27;Young Adults (25-34);M;Canada;British Columbia;Bikes;Mountain Bikes;Mountain-200 Black, 46;1;1252;2295;1043;1252;2295
+261728;11.12.2021;11;December;2021;37;Adults (35-64);M;United States;California;Bikes;Mountain Bikes;Mountain-400-W Silver, 46;1;420;769;349;420;769
+261729;11.12.2021;11;December;2021;38;Adults (35-64);F;United States;California;Bikes;Mountain Bikes;Mountain-200 Silver, 38;1;1266;2320;1054;1266;2320
+261730;12.12.2021;12;December;2021;36;Adults (35-64);F;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-200 Silver, 42;4;1266;2320;4216;5064;9280
+261731;12.12.2021;12;December;2021;37;Adults (35-64);M;United States;California;Bikes;Mountain Bikes;Mountain-400-W Silver, 46;4;420;769;1396;1680;3076
+261732;12.12.2021;12;December;2021;34;Young Adults (25-34);M;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-200 Black, 38;2;1252;2295;2086;2504;4590
+261733;12.12.2021;12;December;2021;35;Adults (35-64);F;Australia;Victoria;Bikes;Mountain Bikes;Mountain-200 Silver, 42;1;1266;2320;1054;1266;2320
+261734;12.12.2021;12;December;2021;38;Adults (35-64);F;United States;Washington;Bikes;Mountain Bikes;Mountain-200 Silver, 42;1;1266;2320;1054;1266;2320
+261735;13.12.2021;13;December;2021;32;Young Adults (25-34);F;Australia;Queensland;Bikes;Mountain Bikes;Mountain-200 Silver, 42;3;1266;2320;3162;3798;6960
+261736;13.12.2021;13;December;2021;40;Adults (35-64);F;United States;California;Bikes;Mountain Bikes;Mountain-500 Silver, 40;1;308;565;257;308;565
+261737;13.12.2021;13;December;2021;44;Adults (35-64);F;United Kingdom;England;Bikes;Mountain Bikes;Mountain-200 Black, 38;1;1252;2295;1043;1252;2295
+261738;13.12.2021;13;December;2021;49;Adults (35-64);M;United Kingdom;England;Bikes;Mountain Bikes;Mountain-200 Black, 38;1;1252;2295;1043;1252;2295
+261739;14.12.2021;14;December;2021;30;Young Adults (25-34);F;United States;Washington;Bikes;Mountain Bikes;Mountain-200 Silver, 38;2;1266;2320;2108;2532;4640
+261740;14.12.2021;14;December;2021;32;Young Adults (25-34);M;United States;California;Bikes;Mountain Bikes;Mountain-200 Black, 46;1;1252;2295;1043;1252;2295
+261741;14.12.2021;14;December;2021;32;Young Adults (25-34);F;Australia;Victoria;Bikes;Mountain Bikes;Mountain-400-W Silver, 46;1;420;769;349;420;769
+261742;15.12.2021;15;December;2021;29;Young Adults (25-34);F;United States;California;Bikes;Mountain Bikes;Mountain-200 Silver, 42;1;1266;2320;1054;1266;2320
+261743;16.12.2021;16;December;2021;33;Young Adults (25-34);F;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-200 Black, 38;2;1252;2295;2086;2504;4590
+261744;16.12.2021;16;December;2021;38;Adults (35-64);M;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-200 Black, 38;2;1252;2295;2086;2504;4590
+261745;16.12.2021;16;December;2021;27;Young Adults (25-34);F;France;Seine et Marne;Bikes;Mountain Bikes;Mountain-200 Silver, 46;1;1266;2320;1054;1266;2320
+261746;17.12.2021;17;December;2021;37;Adults (35-64);F;United States;Washington;Bikes;Mountain Bikes;Mountain-200 Silver, 38;2;1266;2320;2108;2532;4640
+261747;17.12.2021;17;December;2021;31;Young Adults (25-34);M;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-400-W Silver, 42;1;420;769;349;420;769
+261748;17.12.2021;17;December;2021;42;Adults (35-64);F;Germany;Nordrhein-Westfalen;Bikes;Mountain Bikes;Mountain-200 Silver, 46;1;1266;2320;1054;1266;2320
+261749;18.12.2021;18;December;2021;35;Adults (35-64);F;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-500 Silver, 42;4;308;565;1028;1232;2260
+261750;18.12.2021;18;December;2021;38;Adults (35-64);F;Germany;Nordrhein-Westfalen;Bikes;Mountain Bikes;Mountain-200 Silver, 46;4;1266;2320;4216;5064;9280
+261751;18.12.2021;18;December;2021;24;Youth (<25);F;France;Seine Saint Denis;Bikes;Mountain Bikes;Mountain-200 Silver, 38;3;1266;2320;3162;3798;6960
+261752;18.12.2021;18;December;2021;26;Young Adults (25-34);F;United Kingdom;England;Bikes;Mountain Bikes;Mountain-400-W Silver, 42;3;420;769;1047;1260;2307
+261753;18.12.2021;18;December;2021;39;Adults (35-64);M;United States;California;Bikes;Mountain Bikes;Mountain-200 Black, 42;3;1252;2295;3129;3756;6885
+261754;18.12.2021;18;December;2021;26;Young Adults (25-34);M;France;Seine (Paris);Bikes;Mountain Bikes;Mountain-200 Black, 46;1;1252;2295;1043;1252;2295
+261755;18.12.2021;18;December;2021;36;Adults (35-64);M;United States;Washington;Bikes;Mountain Bikes;Mountain-200 Silver, 38;1;1266;2320;1054;1266;2320
+261756;19.12.2021;19;December;2021;17;Youth (<25);M;France;Nord;Bikes;Mountain Bikes;Mountain-200 Silver, 46;4;1266;2320;4216;5064;9280
+261757;19.12.2021;19;December;2021;19;Youth (<25);F;Australia;Victoria;Bikes;Mountain Bikes;Mountain-500 Black, 44;4;295;540;980;1180;2160
+261758;19.12.2021;19;December;2021;25;Young Adults (25-34);M;France;Seine (Paris);Bikes;Mountain Bikes;Mountain-200 Black, 38;4;1252;2295;4172;5008;9180
+261759;19.12.2021;19;December;2021;35;Adults (35-64);F;United States;Oregon;Bikes;Mountain Bikes;Mountain-100 Black, 48;4;1898;3375;5908;7592;13500
+261760;19.12.2021;19;December;2021;37;Adults (35-64);M;United States;Oregon;Bikes;Mountain Bikes;Mountain-200 Black, 38;4;1252;2295;4172;5008;9180
+261761;19.12.2021;19;December;2021;39;Adults (35-64);F;United States;California;Bikes;Mountain Bikes;Mountain-200 Black, 46;4;1252;2295;4172;5008;9180
+261762;19.12.2021;19;December;2021;63;Adults (35-64);F;Australia;Queensland;Bikes;Mountain Bikes;Mountain-200 Black, 46;4;1252;2295;4172;5008;9180
+261763;19.12.2021;19;December;2021;18;Youth (<25);M;Australia;South Australia;Bikes;Mountain Bikes;Mountain-500 Black, 40;2;295;540;490;590;1080
+261764;19.12.2021;19;December;2021;56;Adults (35-64);F;Germany;Hessen;Bikes;Mountain Bikes;Mountain-200 Black, 46;2;1252;2295;2086;2504;4590
+261765;19.12.2021;19;December;2021;39;Adults (35-64);F;United States;Washington;Bikes;Mountain Bikes;Mountain-200 Silver, 38;1;1266;2320;1054;1266;2320
+261766;20.12.2021;20;December;2021;33;Young Adults (25-34);F;Australia;Victoria;Bikes;Mountain Bikes;Mountain-100 Black, 38;4;1898;3375;5908;7592;13500
+261767;20.12.2021;20;December;2021;57;Adults (35-64);M;Australia;Queensland;Bikes;Mountain Bikes;Mountain-200 Black, 46;4;1252;2295;4172;5008;9180
+261768;20.12.2021;20;December;2021;29;Young Adults (25-34);M;Canada;British Columbia;Bikes;Mountain Bikes;Mountain-500 Black, 52;3;295;540;735;885;1620
+261769;20.12.2021;20;December;2021;35;Adults (35-64);F;Australia;Queensland;Bikes;Mountain Bikes;Mountain-200 Silver, 38;1;1266;2320;1054;1266;2320
+261770;20.12.2021;20;December;2021;35;Adults (35-64);M;Australia;Victoria;Bikes;Mountain Bikes;Mountain-200 Silver, 38;1;1266;2320;1054;1266;2320
+261771;21.12.2021;21;December;2021;26;Young Adults (25-34);M;France;Somme;Bikes;Mountain Bikes;Mountain-200 Silver, 38;3;1266;2320;3162;3798;6960
+261772;21.12.2021;21;December;2021;23;Youth (<25);M;United Kingdom;England;Bikes;Mountain Bikes;Mountain-400-W Silver, 46;2;420;769;698;840;1538
+261773;22.12.2021;22;December;2021;30;Young Adults (25-34);F;United States;Washington;Bikes;Mountain Bikes;Mountain-200 Silver, 38;3;1266;2320;3162;3798;6960
+261774;22.12.2021;22;December;2021;41;Adults (35-64);M;United States;California;Bikes;Mountain Bikes;Mountain-200 Black, 42;3;1252;2295;3129;3756;6885
+261775;22.12.2021;22;December;2021;19;Youth (<25);F;Australia;New South Wales;Bikes;Mountain Bikes;Mountain-500 Silver, 42;1;308;565;257;308;565
+261776;22.12.2021;22;December;2021;25;Young Adults (25-34);M;France;Seine (Paris);Bikes;Mountain Bikes;Mountain-200 Black, 38;1;1252;2295;1043;1252;2295
+261777;22.12.2021;22;December;2021;27;Young Adults (25-34);F;Canada;British Columbia;Bikes;Mountain Bikes;Mountain-200 Black, 46;1;1252;2295;1043;1252;2295
+261778;22.12.2021;22;December;2021;41;Adults (35-64);M;Germany;Hessen;Bikes;Mountain Bikes;Mountain-200 Silver, 38;1;1266;2320;1054;1266;2320
+261779;23.12.2021;23;December;2021;30;Young Adults (25-34);F;United States;Oregon;Bikes;Mountain Bikes;Mountain-200 Silver, 42;1;1266;2320;1054;1266;2320
+261780;23.12.2021;23;December;2021;31;Young Adults (25-34);F;Canada;British Columbia;Bikes;Mountain Bikes;Mountain-200 Black, 42;1;1252;2295;1043;1252;2295
+261781;23.12.2021;23;December;2021;35;Adults (35-64);F;United States;California;Bikes;Mountain Bikes;Mountain-500 Black, 42;1;295;540;245;295;540
+261782;24.12.2021;24;December;2021;38;Adults (35-64);M;Australia;Queensland;Bikes;Mountain Bikes;Mountain-200 Black, 42;4;1252;2295;4172;5008;9180

@@ -86,5 +86,4 @@ FROM `bike sales data`
 GROUP BY `Date`
 ORDER BY Total_Revenue DESC
 LIMIT 1;
-SELECT * FROM `bike sales data`;
 

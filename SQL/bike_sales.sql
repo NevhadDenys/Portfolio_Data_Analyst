@@ -28,7 +28,7 @@ WITH Dedup AS (
 DELETE FROM `bike sales data`
 WHERE Sales_Order IN (SELECT Sales_Order FROM Dedup WHERE row_num > 1);
 
--- 5. Handle missing values in a single update using CASE WHEN
+-- 5. Handle missing values
 UPDATE `bike sales data`
 SET 
     Age_Group = CASE 

@@ -1,11 +1,14 @@
-# Denys' Data Analytics Portfolio  
+# Nevhad Denys - Data Analyst Portfolio  
 
 ## 📌 Table of Contents  
 - [About Me](#about-me)  
 - [Projects](#projects)  
-  - [Global Retail Sales Data Analysis](#global-retail-sales-data-analysis)  
-  - [Bike Sales Data Cleaning & Optimization](#bike-sales-data-cleaning--optimization)  
-  - [Adidas US Sales Performance Analysis](#adidas-us-sales-performance-analysis)  
+    - Python
+        - [Global Retail Sales Data Analysis](#global-retail-sales-data-analysis) 
+    - SQL
+        - [Bike Sales Data Cleaning & Optimization](#bike-sales-data-cleaning--optimization)  
+    - Tableau
+        - [Adidas US Sales Performance Analysis](#adidas-us-sales-performance-analysis)  
 - [Certifications](#certifications)  
 - [Education](#education)  
 - [Contacts](#contacts)  
@@ -28,7 +31,7 @@ This portfolio showcases my projects, highlighting both **technical expertise** 
 ## 🚀 Projects  
 
 ### 📊 Global Retail Sales Data Analysis  
-**Code:** [`Global Retail Sales Data Analysis.ipynb`](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/master/Python/Global%20Retail%20Sales%20Data%20Analysis.ipynb) 
+**Code:** [`Global Retail Sales Data Analysis.ipynb`](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/master/Python/Global%20Retail%20Sales%20Data%20Analysis.ipynb)  
 
 **Goal:** Analyze global retail sales data to identify key trends and provide actionable insights.  
 
@@ -37,25 +40,37 @@ This portfolio showcases my projects, highlighting both **technical expertise** 
 - Exploratory Data Analysis (EDA) with statistical insights  
 - Visualization of sales distribution and revenue trends  
 
+**Results:**  
+📌 Identified key trends in global retail sales.  
+📌 Visualized the distribution of total sales, highlighting frequent sales values.
+📌 Processed and cleaned the dataset for accurate analysis.
+📌 Provided statistical summaries and graphical insights for decision-making.
+
 **Skills Applied:**  
 ✅ Data Cleaning & Preparation  
 ✅ Exploratory Data Analysis (EDA)  
 ✅ Data Visualization & Statistical Analysis  
 
 **Technology Used:**  
-🟢 Python | Pandas | NumPy | Matplotlib | Seaborn 
+🟢 Python | Pandas | NumPy | Matplotlib | Seaborn  
 
 ---
 
 ### 🚴‍♂️ Bike Sales Data Cleaning & Optimization  
-**Code:** [`Bike Sales Data Cleaning & Optimization.ipynb`](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/master/SQL/Bike%20Sales%20Data%20Cleaning%20%26%20Optimization.sql)
+**Code:** [`Bike Sales Data Cleaning & Optimization.sql`](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/master/SQL/Bike%20Sales%20Data%20Cleaning%20%26%20Optimization.sql)  
 
 **Goal:** Standardize and clean a bike sales dataset for accurate reporting and analysis.  
 
 **Description:**  
-- Standardized column data types
+- Standardized column data types  
 - Corrected misspellings & trimmed unnecessary whitespace  
 - Removed duplicates using **SQL Window Functions**  
+
+**Results:**  
+📌 Improved data quality by standardizing numeric precision and correcting errors.
+📌 Enhanced consistency in column names and values. 
+📌 Efficient duplicate removal using SQL window functions.
+📌 Prepared dataset for accurate and reliable analysis.
 
 **Skills Applied:**  
 ✅ SQL Data Cleaning & Transformation  
@@ -68,7 +83,7 @@ This portfolio showcases my projects, highlighting both **technical expertise** 
 ---
 
 ### 🏀 Adidas US Sales Performance Analysis  
-**Link:** [`Tableau Dashboard`](https://public.tableau.com/app/profile/nevhad.denys/viz/Portfolio_17367076231920/Dashboard1) 
+**Dashboard:** [`Tableau Dashboard`](https://public.tableau.com/app/profile/nevhad.denys/viz/Portfolio_17367076231920/Dashboard1)  
 
 **Goal:** Analyze Adidas' sales performance in the US to identify trends and support strategic decision-making.  
 
@@ -76,6 +91,12 @@ This portfolio showcases my projects, highlighting both **technical expertise** 
 - Created a **Tableau dashboard** with key business metrics  
 - Included **filters** for region, retailer, sales method, and product type  
 - Visualized **monthly sales trends, retailer performance, and product insights**  
+
+**Results:**  
+📌 Identified sales fluctuations over time, helping forecast demand.
+📌 Provided insights into top-performing retailers and regions for strategic planning.
+📌 Highlighted best-selling products, enabling inventory and marketing optimization.
+📌Allowed interactive filtering, improving usability for stakeholders.
 
 **Skills Applied:**  
 ✅ Data Visualization & Dashboard Design  
@@ -88,6 +109,9 @@ This portfolio showcases my projects, highlighting both **technical expertise** 
 ---
 
 ## 🏅 Certifications  
+- [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/EVVGZ2YUDW7B) (Nov 2023) (Coursera - IBM)
+- [Applied Calculus with Python](https://www.coursera.org/account/accomplishments/verify/JTKRN5XM73AM) (Nov 2023) (Coursera - Johnson Hopkins University)
+- [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/VSEP8JDGASV4) (Nov 2023) (Coursera - IBM)
 
 ---
 
@@ -99,8 +123,7 @@ Department of Software Systems and Technologies
 ---
 
 ## 📩 Contacts  
-📧 **Email:** [nevhaddenys@gmail.com] 
-🔗 **LinkedIn:** [linkedin.com/in/denys-nevhad](https://www.linkedin.com/in/denys-nevhad)  
+📧 **Email:** [nevhaddenys@gmail.com](mailto:nevhaddenys@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/denys-nevhad](linkedin.com/in/denys-nevhad-937b0b351)
 
 ---
-

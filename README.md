@@ -41,9 +41,12 @@ This portfolio showcases my projects, highlighting both **technical expertise** 
 - Visualization of sales distribution and revenue trends  
 
 **Results:**  
-📌 Identified key trends in global retail sales.  
+📌 Identified key trends in global retail sales. 
+
 📌 Visualized the distribution of total sales, highlighting frequent sales values.
+
 📌 Processed and cleaned the dataset for accurate analysis.
+
 📌 Provided statistical summaries and graphical insights for decision-making.
 
 **Skills Applied:**  
@@ -68,8 +71,11 @@ This portfolio showcases my projects, highlighting both **technical expertise** 
 
 **Results:**  
 📌 Improved data quality by standardizing numeric precision and correcting errors.
+
 📌 Enhanced consistency in column names and values. 
+
 📌 Efficient duplicate removal using SQL window functions.
+
 📌 Prepared dataset for accurate and reliable analysis.
 
 **Skills Applied:**  
@@ -94,8 +100,11 @@ This portfolio showcases my projects, highlighting both **technical expertise** 
 
 **Results:**  
 📌 Identified sales fluctuations over time, helping forecast demand.
+
 📌 Provided insights into top-performing retailers and regions for strategic planning.
+
 📌 Highlighted best-selling products, enabling inventory and marketing optimization.
+
 📌Allowed interactive filtering, improving usability for stakeholders.
 
 **Skills Applied:**  

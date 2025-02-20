@@ -133,6 +133,6 @@ Department of Software Systems and Technologies
 
 ## 📩 Contacts  
 📧 **Email:** [nevhaddenys@gmail.com](mailto:nevhaddenys@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/denys-nevhad-937b0b351](linkedin.com/in/denys-nevhad-937b0b351)
+🔗 **LinkedIn:** [linkedin.com/in/denys-nevhad-937b0b351](https://www.linkedin.com/in/denys-nevhad-937b0b351/)
 
 ---

@@ -28,7 +28,7 @@ This portfolio showcases my projects, highlighting both **technical expertise** 
 ## 🚀 Projects  
 
 ### 📊 Global Retail Sales Data Analysis  
-🔗 **[GitHub Repository](https://github.com/NevhadDenys/Portfolio_Data_Analyst/tree/main/Global_Retail_Sales_Analysis)**  
+**Code:** [`Global Retail Sales Data Analysis.ipynb`](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/master/Python/Global%20Retail%20Sales%20Data%20Analysis.ipynb) 
 
 **Goal:** Analyze global retail sales data to identify key trends and provide actionable insights.  
 
@@ -43,17 +43,17 @@ This portfolio showcases my projects, highlighting both **technical expertise** 
 ✅ Data Visualization & Statistical Analysis  
 
 **Technology Used:**  
-🟢 Python | Pandas | NumPy | Matplotlib | Seaborn  
+🟢 Python | Pandas | NumPy | Matplotlib | Seaborn 
 
 ---
 
 ### 🚴‍♂️ Bike Sales Data Cleaning & Optimization  
-🔗 **[GitHub Repository](https://github.com/NevhadDenys/Portfolio_Data_Analyst/tree/main/Bike_Sales_Data_Cleaning)**  
+**Code:** [`Bike Sales Data Cleaning & Optimization.ipynb`](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/master/SQL/Bike%20Sales%20Data%20Cleaning%20%26%20Optimization.sql)
 
 **Goal:** Standardize and clean a bike sales dataset for accurate reporting and analysis.  
 
 **Description:**  
-- Standardized column data types (e.g., converting cost & revenue to **DECIMAL(10,2)**)  
+- Standardized column data types
 - Corrected misspellings & trimmed unnecessary whitespace  
 - Removed duplicates using **SQL Window Functions**  
 
@@ -68,7 +68,7 @@ This portfolio showcases my projects, highlighting both **technical expertise** 
 ---
 
 ### 🏀 Adidas US Sales Performance Analysis  
-🔗 **[GitHub Repository](https://github.com/NevhadDenys/Portfolio_Data_Analyst/tree/main/Adidas_Sales_Performance_Analysis)**  
+**Link:** [`Tableau Dashboard`](https://public.tableau.com/app/profile/nevhad.denys/viz/Portfolio_17367076231920/Dashboard1) 
 
 **Goal:** Analyze Adidas' sales performance in the US to identify trends and support strategic decision-making.  
 

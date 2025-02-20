@@ -1,112 +1,106 @@
-# Welcome to My Portfolio!
+# Denys' Data Analytics Portfolio  
 
-I'm **Denys** — a data analyst with hands-on experience in leveraging various data tools to clean, analyze, and visualize information that supports decision-making and drives meaningful change.
-
-I am proficient in **SQL, Excel, Tableau, and Python**, with a solid understanding of key data analytics techniques, including:
-- Data preparation & wrangling
-- Statistical analysis
-- Chart design & dashboard development
-- Process documentation
-
-This portfolio features data projects that highlight both my **technical expertise** and **analytical thinking**. You'll find **workbooks, reports, and dashboards** created using SQL, Tableau, and Jupyter Notebook. These projects showcase my ability to structure, analyze, and present data in a clear and visually compelling way, making insights accessible for informed decision-making.
-
----
-
-## **Portfolio Projects**
-
-### **1. Global Retail Sales Data Analysis**
-
-#### **Goal**  
-Analyze global retail sales data to uncover key insights, identify trends, and provide actionable recommendations based on sales performance.
-
-#### **Description**  
-This project involves **data cleaning, exploration, and visualization** to assess sales distribution, detect patterns, and evaluate factors influencing revenue. The analysis includes:
-- Handling missing values
-- Converting date formats
-- Summarizing sales trends through statistical and graphical methods
-
-#### **Skills Applied**  
-- Data Cleaning & Preparation (handling missing values, duplicates, and data type conversion)
-- Exploratory Data Analysis (EDA)
-- Data Visualization (charts and histograms for sales distribution)
-- Statistical Analysis (descriptive statistics and summary metrics)
-
-#### **Technology Used**  
-- **Python** (for data analysis and visualization)
-- **Pandas** (for data manipulation)
-- **NumPy** (for numerical operations)
-- **Matplotlib & Seaborn** (for visualizing sales trends and distributions)
-
-#### **Results**  
-- Identified key trends in global retail sales.
-- Visualized the distribution of total sales, highlighting frequent sales values.
-- Processed and cleaned the dataset for accurate analysis.
-- Provided statistical summaries and graphical insights for decision-making.
+## 📌 Table of Contents  
+- [About Me](#about-me)  
+- [Projects](#projects)  
+  - [Global Retail Sales Data Analysis](#global-retail-sales-data-analysis)  
+  - [Bike Sales Data Cleaning & Optimization](#bike-sales-data-cleaning--optimization)  
+  - [Adidas US Sales Performance Analysis](#adidas-us-sales-performance-analysis)  
+- [Certifications](#certifications)  
+- [Education](#education)  
+- [Contacts](#contacts)  
 
 ---
 
-### **2. Bike Sales Data Cleaning & Optimization**
+## 📖 About Me  
+I'm Denys — a data analyst with hands-on experience in leveraging various data tools to clean, analyze, and visualize information that supports decision-making and drives meaningful change.  
 
-#### **Goal**  
-Clean, standardize, and optimize a bike sales dataset for accurate reporting and analysis. This involves improving data consistency, fixing errors, and ensuring efficiency in SQL queries.
+Proficient in **SQL, Excel, Tableau, and Python**, I have a strong understanding of key data analytics techniques, including:  
+✔ Data Preparation & Wrangling  
+✔ Statistical Analysis  
+✔ Dashboard Development  
+✔ Process Documentation  
 
-#### **Description**  
-The SQL script includes several steps for **data preparation**:
-- Standardizing column data types.
-- Renaming columns for consistency and ease of use.
-- Correcting misspelled values and trimming unnecessary whitespace.
-- Removing duplicate records while keeping the earliest valid entry.
-
-These transformations ensure that the dataset is **clean, structured, and optimized for analysis**.
-
-#### **Skills Applied**  
-- SQL Data Cleaning & Transformation
-- Data Standardization & Normalization
-- Duplicate Handling & Optimization
-- Data Integrity Management
-
-#### **Technology Used**  
-- **SQL (MySQL)** for data transformation
-- **Window Functions** for handling duplicates
-- **String Functions** for trimming and correcting values
-
-#### **Results**  
-- Improved data quality by standardizing numeric precision and correcting errors.
-- Enhanced consistency in column names and values.
-- Efficient duplicate removal using SQL window functions.
-- Prepared dataset for accurate and reliable analysis.
+This portfolio showcases my projects, highlighting both **technical expertise** and **analytical thinking**.  
 
 ---
 
-### **3. Adidas US Sales Performance Analysis**
+## 🚀 Projects  
 
-#### **Goal**  
-Analyze Adidas’ sales performance in the US by identifying trends, regional variations, and product performance to support **data-driven decision-making**.
+### 📊 Global Retail Sales Data Analysis  
+🔗 **[GitHub Repository](https://github.com/NevhadDenys/Portfolio_Data_Analyst/tree/main/Global_Retail_Sales_Analysis)**  
 
-#### **Description**  
-The dashboard visualizes key business metrics using multiple visual elements, including:
-- **Sales Trends Over Time**: A line chart depicting monthly sales fluctuations.
-- **Retailer Analysis**: A tree map representing retailer distribution and performance.
-- **Product Performance**: A bar chart showing top-selling products along with their unit price.
-- **Regional Sales Performance**: A geographic heatmap displaying sales distribution across US states.
-- **Key Metrics Summary**: Highlighting **average total sales, units sold, operating profit, and price per unit**.
+**Goal:** Analyze global retail sales data to identify key trends and provide actionable insights.  
 
-The dashboard allows filtering by **region, retailer, sales method, product type, and month**, enabling deeper insights.
+**Description:**  
+- Data cleaning (handling missing values, duplicates, and formatting issues)  
+- Exploratory Data Analysis (EDA) with statistical insights  
+- Visualization of sales distribution and revenue trends  
 
-#### **Skills Applied**  
-- Data Visualization & Dashboard Design
-- Sales & Revenue Analysis
-- Data Filtering & Interactive Reporting
-- Business Intelligence & Data Storytelling
+**Skills Applied:**  
+✅ Data Cleaning & Preparation  
+✅ Exploratory Data Analysis (EDA)  
+✅ Data Visualization & Statistical Analysis  
 
-#### **Technology Used**  
-- **Tableau**
+**Technology Used:**  
+🟢 Python | Pandas | NumPy | Matplotlib | Seaborn  
 
-#### **Results**  
-- Identified **sales fluctuations** over time, helping forecast demand.
-- Provided insights into **top-performing retailers and regions** for strategic planning.
-- Highlighted **best-selling products**, enabling inventory and marketing optimization.
-- Allowed **interactive filtering**, improving usability for stakeholders.
+---
+
+### 🚴‍♂️ Bike Sales Data Cleaning & Optimization  
+🔗 **[GitHub Repository](https://github.com/NevhadDenys/Portfolio_Data_Analyst/tree/main/Bike_Sales_Data_Cleaning)**  
+
+**Goal:** Standardize and clean a bike sales dataset for accurate reporting and analysis.  
+
+**Description:**  
+- Standardized column data types (e.g., converting cost & revenue to **DECIMAL(10,2)**)  
+- Corrected misspellings & trimmed unnecessary whitespace  
+- Removed duplicates using **SQL Window Functions**  
+
+**Skills Applied:**  
+✅ SQL Data Cleaning & Transformation  
+✅ Data Standardization & Optimization  
+✅ Duplicate Handling & Integrity Management  
+
+**Technology Used:**  
+🟠 SQL (MySQL) | Window Functions | String Functions  
+
+---
+
+### 🏀 Adidas US Sales Performance Analysis  
+🔗 **[GitHub Repository](https://github.com/NevhadDenys/Portfolio_Data_Analyst/tree/main/Adidas_Sales_Performance_Analysis)**  
+
+**Goal:** Analyze Adidas' sales performance in the US to identify trends and support strategic decision-making.  
+
+**Description:**  
+- Created a **Tableau dashboard** with key business metrics  
+- Included **filters** for region, retailer, sales method, and product type  
+- Visualized **monthly sales trends, retailer performance, and product insights**  
+
+**Skills Applied:**  
+✅ Data Visualization & Dashboard Design  
+✅ Sales & Revenue Analysis  
+✅ Business Intelligence & Data Storytelling  
+
+**Technology Used:**  
+🔵 Tableau  
+
+---
+
+## 🏅 Certifications  
+
+---
+
+## 🎓 Education  
+**Taras Shevchenko National University of Kyiv** (2022–2026)  
+**Bachelor's in Software Engineering**  
+Department of Software Systems and Technologies  
+
+---
+
+## 📩 Contacts  
+📧 **Email:** [nevhaddenys@gmail.com] 
+🔗 **LinkedIn:** [linkedin.com/in/denys-nevhad](https://www.linkedin.com/in/denys-nevhad)  
 
 ---
 

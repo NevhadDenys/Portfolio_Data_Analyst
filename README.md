@@ -2,17 +2,17 @@
 
 ## 📌 Table of Contents  
 ## Table of Contents  
-- [About Me](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#about-me)  
-- [Projects](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#projects)  
+- [About Me](https://github.com/NevhadDenys/Portfolio_Data_Analyst?tab=readme-ov-file#-about-me)  
+- [Projects](https://github.com/NevhadDenys/Portfolio_Data_Analyst?tab=readme-ov-file#-projects)  
     - Python  
-        - [Global Retail Sales Data Analysis](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#global-retail-sales-data-analysis)  
+        - [Global Retail Sales Data Analysis](https://github.com/NevhadDenys/Portfolio_Data_Analyst?tab=readme-ov-file#-global-retail-sales-data-analysis)  
     - SQL  
-        - [Bike Sales Data Cleaning & Optimization](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#bike-sales-data-cleaning--optimization)  
+        - [Bike Sales Data Cleaning & Optimization](https://github.com/NevhadDenys/Portfolio_Data_Analyst?tab=readme-ov-file#%EF%B8%8F-bike-sales-data-cleaning--optimization)  
     - Tableau  
-        - [Adidas US Sales Performance Analysis](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#adidas-us-sales-performance-analysis)  
-- [Certifications](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#certifications)  
-- [Education](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#education)  
-- [Contacts](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#contacts)  
+        - [Adidas US Sales Performance Analysis](https://github.com/NevhadDenys/Portfolio_Data_Analyst?tab=readme-ov-file#-adidas-us-sales-performance-analysis)  
+- [Certifications](https://github.com/NevhadDenys/Portfolio_Data_Analyst?tab=readme-ov-file#-certifications)  
+- [Education](https://github.com/NevhadDenys/Portfolio_Data_Analyst?tab=readme-ov-file#-education)  
+- [Contacts](https://github.com/NevhadDenys/Portfolio_Data_Analyst?tab=readme-ov-file#-contacts)  
   
 
 ---

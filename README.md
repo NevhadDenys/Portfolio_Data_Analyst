@@ -1,17 +1,19 @@
 # Nevhad Denys - Data Analyst Portfolio  
 
 ## 📌 Table of Contents  
-- [About Me](#about-me)  
-- [Projects](#projects)  
-    - Python
-        - [Global Retail Sales Data Analysis](#global-retail-sales-data-analysis) 
-    - SQL
-        - [Bike Sales Data Cleaning & Optimization](#bike-sales-data-cleaning--optimization)  
-    - Tableau
-        - [Adidas US Sales Performance Analysis](#adidas-us-sales-performance-analysis)  
-- [Certifications](#certifications)  
-- [Education](#education)  
-- [Contacts](#contacts)  
+## Table of Contents  
+- [About Me](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#about-me)  
+- [Projects](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#projects)  
+    - Python  
+        - [Global Retail Sales Data Analysis](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#global-retail-sales-data-analysis)  
+    - SQL  
+        - [Bike Sales Data Cleaning & Optimization](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#bike-sales-data-cleaning--optimization)  
+    - Tableau  
+        - [Adidas US Sales Performance Analysis](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#adidas-us-sales-performance-analysis)  
+- [Certifications](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#certifications)  
+- [Education](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#education)  
+- [Contacts](https://github.com/NevhadDenys/Portfolio_Data_Analyst/blob/main/README.md#contacts)  
+  
 
 ---
 
